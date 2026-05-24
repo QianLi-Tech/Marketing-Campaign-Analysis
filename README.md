@@ -48,10 +48,5 @@ Constructed a dedicated, clean measure container utilizing structured Data Analy
 ---
 
 ## Dashboard Preview & Visual Layout
+![Executive Dashboard](dashboard_view.png)
 
-
-### Page 1: Executive 360 Overview
-![Executive Dashboard](https://via.placeholder.com/800x450.png?text=Place+Your+Executive+Dashboard+Screenshot+Here)
-
-### Page 2: Advanced Customer Decile Matrix
-![Decile Analysis](https://via.placeholder.com/800x450.png?text=Place+Your+Decile+Matrix+Screenshot+Here)
